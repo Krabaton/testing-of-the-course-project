@@ -67,7 +67,7 @@ Durum hakkında daha ayrıntılı bilgi, simgeye tıklayarak ve açılan pencere
 
 Bir süre sonra, genellikle birkaç dakika, canlı sayfa depo ayarlarındaki `Settings` > `Pages` sekmesinde belirtilen adresten görüntülenebilir.
 Örneğin, bu depo için canlı sürümün bağlantısı şöyledir
-[https://goitacademy.github.io/vanilla-app-template/](https://goitacademy.github.io/vanilla-app-template/).
+[https://goitacademy.github.io/testing-of-the-course-project/](https://goitacademy.github.io/testing-of-the-course-project/).
 
 
 Boş bir sayfa açılırsa, `Console` sekmesinde projenin CSS ve JS dosyalarının yanlış yollarıyla ilgili herhangi bir hata olmadığından emin olun (**404**). Büyük olasılıkla `package.json` dosyasında `build` komutu için `--base` bayrağının yanlış bir değeri vardır.
