@@ -87,7 +87,7 @@ iconiță, iar în fereastra derulantă accesează link-ul `Details`.
 După o perioadă de timp, de obicei câteva minute, pagina live poate fi vizualizată 
 la adresa specificată în secțiunea `Settings` > `Pages` din setările repository-ului. 
 De exemplu: iată link-ul către versiunea live pentru acest repository
-[https://goitacademy.github.io/vanilla-app-template/](https://goitacademy.github.io/vanilla-app-template/).
+[https://goitacademy.github.io/testing-of-the-course-project/](https://goitacademy.github.io/testing-of-the-course-project/).
 
 Dacă se deschide o pagină goală, verifică dacă nu sunt erori în fila `Console`, 
 legate de căile de acces incorecte către fișierele CSS și JS ale proiectului 

@@ -91,7 +91,7 @@ Po pewnym czasie, zwykle kilku minutach, strona na żywo może być wyświetlona
 pod adresem określonym w zakładce `Settings` > `Pages` w ustawieniach repozytorium. 
 Na przykład, oto link do wersji live dla tego repozytorium:
 
-[https://goitacademy.github.io/vanilla-app-template/](https://goitacademy.github.io/vanilla-app-template/).
+[https://goitacademy.github.io/testing-of-the-course-project/](https://goitacademy.github.io/testing-of-the-course-project/).
 
 Jeśli widzisz pustą stronę, upewnij się, że w zakładce `Console` nie ma
 błędów związanych z nieprawidłowymi ścieżkami do plików CSS i JS projektu
